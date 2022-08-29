@@ -12,8 +12,7 @@ Video playlist (net ninja's html and css crashcourse) -
 https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G 
 
 Before going deep into web development, one should understand 
-what HTTP (the underlying networking concept used to share 
-information between a remote computer and your client).
+what HTTP (the underlying networking concept used to share information between a remote computer and your client).
 
 Resources:
 - Overview - https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
@@ -50,3 +49,16 @@ You may have heard the term API by now. If not, API
 which allows us to communicate between frontend and backend.
 
 https://youtu.be/-MTSQjw5DrM
+
+**Using Postman**
+
+Postman allows us to test our backend APIs without having a
+frontend making queries and instead this software mimics the
+work of frontend application.
+
+https://www.postman.com/
+
+If you think postman is too roboust to work with, linux 
+has a utility which can be used to work with called cURL
+
+https://curl.se/docs/tooldocs.html

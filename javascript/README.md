@@ -70,6 +70,12 @@ language provides.
 
 # Starting Backend in Javascript
 
+It is required to understand the [web2.0](../web2.0/README.md)
+concepts to have a better understanding of Javascript. So
+take a look at the concepts in web2.0 like REST api, MVC 
+architecture and HTTP to move further in backed programming
+with javascript.
+
 Starting with Backend, the best place is to start with 
 node.js You may want to ask what this new node.js is, is it
 a new package.
@@ -103,4 +109,5 @@ Video References:
 Since node is basically javascript, it can be quickly learned.
 The above playlist also explained about express.js and MVC 
 architecture to build backend.
+
 
