@@ -8,4 +8,5 @@ to learn the technologies being used in our projects.
 - [Learning Web Development](web2.0/README.md)
 - [Learning Javascript](javascript/README.md)
 - [Learning Golang](golang/README.md)
+- [Learning ML](traditional-ML/README.md)
 
