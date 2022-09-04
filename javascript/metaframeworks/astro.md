@@ -80,7 +80,22 @@ client side javascript. But to have interactivity, we can
 create those certain components with the any library of 
 our choice. 
 
-Once the request is done, 
+Once the request is served with the HTML and CSS files 
+required, we have methods to hydrate the client for the 
+required isolated components in multiple ways like loading 
+instantly with the client fetching, loading when the client
+is idle, loading the component when it is displayed on the 
+screen.
+
+Sometimes we may require to share state between the 
+component islands. But due to the nature of Astro not taking
+the client entirely with javascript and using multiple 
+component libraries, astro requires a library agnostic store 
+management tool. Nanostores is one state management library 
+that provides us state management.
+
+Nanostores - https://github.com/nanostores/nanostores
+Nanostores in astro - https://docs.astro.build/en/core-concepts/sharing-state/
 
 To learn more about astro Islands architecture, check this
 page - https://docs.astro.build/en/concepts/islands/
